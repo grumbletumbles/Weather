@@ -1,0 +1,11 @@
+{
+  "cities" : {
+    "0" : "New York",
+    "1" : "London",
+    "2" : "Moscow",
+    "3" : "Vladimir",
+    "4" : "Saint Petersburg"
+  },
+  "update frequency" : 1,
+  "forecast days" : 16
+}
